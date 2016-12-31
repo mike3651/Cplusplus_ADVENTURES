@@ -1,3 +1,9 @@
+/*******************************************************************
+ ** NOT MY CODE, FOLLOWED ALONG AND USED THIS CODE FOR SELF STUDY **
+ ** CODE IS BY MICHAEL DAWSON'S BEGINNING C++ BOOK				  **	
+ *******************************************************************/
+
+
 #include <iostream>
 #include <string>
 #include <cstdlib>

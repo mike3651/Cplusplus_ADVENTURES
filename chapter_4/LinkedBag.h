@@ -1,3 +1,9 @@
+/******************************************************************* 
+ ** NOT MY CODE, FOLLOWED ALONG AND USED THIS CODE FOR SELF STUDY **
+ ** CODE IS FROM FRANK M. CARRANO AND TIMOTHY HENRY'S DATA 		  **
+ ** ABSTRACTION AND PROBLEM SOLVING WITH C++					  ** 	
+ *******************************************************************/
+
 #ifndef _LINKED_BAG
 #define _LINKED_BAG
 

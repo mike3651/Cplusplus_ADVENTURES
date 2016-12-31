@@ -1,8 +1,13 @@
+/******************************************************************* 
+ ** NOT MY CODE, FOLLOWED ALONG AND USED THIS CODE FOR SELF STUDY **
+ ** CODE IS FROM FRANK M. CARRANO AND TIMOTHY HENRY'S DATA 		  **
+ ** ABSTRACTION AND PROBLEM SOLVING WITH C++					  ** 	
+ *******************************************************************/
+
+
 #include "LinkedBag.h"
 #include "Node.h"
 #include <cstddef>
-
-
 
 template<class ItemType>
 LinkedBag<ItemType>::LinkedBag() : headPtr(nullptr), itemCount(0) {}
